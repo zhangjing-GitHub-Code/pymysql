@@ -1,6 +1,7 @@
-# Python-link-to-mysql-database-windows-
+# Python link to mysql database (windows)
 ## need:
 
-##### mysql database(user name and password is 'root')
+##### mysql database(have root user and it's password is 'root')
 ##### Python Environment
-##### Python lib 'pymysql' (install it by run command 'pip install pymysql')
+##### Python lib 'pymysql' (install it by running command 'pip install pymysql')
+##### 
