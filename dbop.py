@@ -4,7 +4,7 @@ def getconn():
     return db
 def addtab(tablename,db):
     cur=db.cursor()
-    print("start to enter infomations."
+    print("start to enter infomations.")
     id = input("enter id:")
     name = input("enter member's name:")
     sex = input("enter sex in Chinese (男 or 女)")
